@@ -1,0 +1,14 @@
+{
+    "name":    "foton/versioning",
+    "type":    "foton-extension",
+    "license":  "MIT",
+    "require": {
+    	"foton/installer": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}
